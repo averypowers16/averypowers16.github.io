@@ -22,9 +22,12 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+  
+  - title: "Resume"
+    url: /files/Avery-Powers-Resume-Jan-2026.pdf/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
